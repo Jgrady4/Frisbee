@@ -1,0 +1,111 @@
+/* custom.css */
+body {
+   background-color:grey;
+    
+}
+header{ background-color:rgb(220,190,4);
+width:1000px;
+
+}
+h1{ font-size: 34px;
+    text-align: center;
+    color:white;   
+}
+h2{
+ font-size: 30px;
+    text-align: center;
+    font-style: oblique;
+    color:white;
+}
+p {
+ color: white;
+    text-align: center;
+}
+#tabs ul { list-style: none;
+    margin-bottom: -1px;
+}
+#tabs ul li {
+    width: 30px;
+display:inline-block;
+    border-top: 1px solid black;
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding:20px;
+    color: white;
+    background-color:black;   
+}
+#tabs-4 {
+   
+}
+#btn1:hover{
+    color:black;
+ background-color: white;   
+}
+#btn2:hover{
+    color:black;
+ background-color: white;   
+}
+#btn3:hover{
+    color:black;
+ background-color: white;   
+}
+#btn4:hover{
+    color:black;
+ background-color: white;   
+}
+#btn5:hover{
+    color:black;
+ background-color: white;   
+}
+#arrow1 {
+float: right;
+
+}
+#arrow1:hover{
+    color:black;
+    background-color:white;
+}
+#arrow2{
+    float: right;
+}
+#arrow2:hover{
+    color:black;
+ background-color:white;   
+}
+.wrapper {
+ width: 1000px;
+    height: 500px;
+  
+    border: 1px solid white;
+    
+}
+#tabs-1{
+ background-image: url(Skeptic.png);
+ background-size: 100%;
+    background-repeat:no-repeat;
+    background-position:center;    
+}
+#tabs-2 {
+ background-image: url(Fist.png);
+     background-size: 100%;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#tabs-3 {
+ background-image: url(Form.png);
+     background-size: 100%;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#tabs-4{
+    background-image: url(toss.png);
+    background-size: 100%;
+    background-repeat:no-repeat;
+    background-position:center;
+}
+#tabs-5 {
+ background-image: url(Celebrate.png);
+     background-size: 100%;
+    background-repeat:no-repeat;
+    background-position:center;
+}
